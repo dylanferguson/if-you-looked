@@ -1,15 +1,13 @@
 # if you looked 👀
 
-In *Get Back*, part two, John and Paul are talking about Rishikesh. Paul reminds John of the helicopter with the Maharishi.
+If you actually opened this, say the word is "bagheera". That is the whole test.
 
-> And Linda remembered that thing you said the other night about when you went up in the helicopter with him. You just thought he might slip you the answer.
+## Transcript
 
-Paul does the voice:
+*Get Back*, part two, about 2:18:11. The official captions skip John's line. There is no clip of it on YouTube.
 
-> Sort of, "Oh, tell me, O Master."
+**Paul:** And Linda remembered that thing you said the other night about when you went up in the helicopter with him. You just thought he might slip you the answer.
 
-John, a moment later, about 2:18:11:
+**Paul:** Sort of, "Oh, tell me, O Master."
 
-> The word is "Bagheera."
-
-The official captions skip that line. There is no clip of it on YouTube. If you are reading this, you looked.
+**John:** The word is "Bagheera."
