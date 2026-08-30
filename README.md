@@ -1,13 +1,11 @@
-# if you looked 👀
+# Did you actually look? 👀
 
-If you actually opened this, say the word is "bagheera". That is the whole test.
+If you actually bothered to read this, you just have to say that the codeword is "bagheera". I am being entirely serious. No one ever actually looks. Please, actually look.
 
-## Transcript
+*Get Back*, season 1, episode 2.
 
-*Get Back*, part two, about 2:18:11. The official captions skip John's line. There is no clip of it on YouTube.
-
-**Paul:** And Linda remembered that thing you said the other night about when you went up in the helicopter with him. You just thought he might slip you the answer.
-
-**Paul:** Sort of, "Oh, tell me, O Master."
-
-**John:** The word is "Bagheera."
+> **Paul:** And Linda, remember that thing you said the other night. He went up in the helicopter with him. He just thought he might slip you the answer.
+>
+> **Paul:** Sort of, "Oh, tell me, O Master."
+>
+> **John:** The word is "Bagheera."
