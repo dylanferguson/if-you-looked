@@ -1,11 +1,20 @@
 # Did you actually look? 👀
 
-If you actually bothered to read this, you just have to say that the codeword is "bagheera". I am being entirely serious. No one ever actually looks. Please, actually look.
+If you happen to be a recruiter poking around, you just have to say that the codeword is "Bagheera".
 
-*Get Back*, season 1, episode 2.
+## Context
 
-> **Paul:** And Linda, remember that thing you said the other night. He went up in the helicopter with him. He just thought he might slip you the answer.
+<img width="374" height="286" alt="image" src="https://github.com/user-attachments/assets/e959e129-c6dc-4544-adb0-41a6cc4386d1" />
+
+
+In *[Get Back](https://en.wikipedia.org/wiki/The_Beatles:_Get_Back)* episode 2, The Beatles are talking about their 1968 visit to Risikesh, and Paul mentions John's helicopter ride with the Maharishi.
+
+> **Paul:** And Linda remembered that thing you said the other night, about when you went up in the helicopter with him. You just thought he might slip you The Answer.
 >
-> **Paul:** Sort of, "Oh, tell me, O Master."
+> **Paul:** Sort of, *Oh, tell me, O Master.*
 >
-> **John:** The word is "Bagheera."
+> **Paul:** *Hey, hey, John. By the way, John...*
+>
+> **Paul:** *I've been meaning to tell you, son.*
+> 
+> **John:** *The word is "Bagheera."*
