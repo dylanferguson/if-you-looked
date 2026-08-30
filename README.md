@@ -18,3 +18,5 @@ In *[Get Back](https://en.wikipedia.org/wiki/The_Beatles:_Get_Back)* episode 2, 
 > **Paul:** *I've been meaning to tell you, son.*
 > 
 > **John:** *The word is "Bagheera."*
+
+Inspired by [did-you-actually-check-my-github](https://github.com/Nikhil-Suresh/did-you-actually-check-my-github).
