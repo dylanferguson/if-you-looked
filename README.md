@@ -19,4 +19,8 @@ In *[Get Back](https://en.wikipedia.org/wiki/The_Beatles:_Get_Back)* episode 2, 
 > 
 > **John:** *The word is "Bagheera."*
 
+<p align="center">
+  <img src="bagheera.gif" width="480" alt="John Lennon: The word is &quot;Bagheera.&quot;">
+</p>
+
 Inspired by [did-you-actually-check-my-github](https://github.com/Nikhil-Suresh/did-you-actually-check-my-github).
