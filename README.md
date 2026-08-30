@@ -11,6 +11,8 @@ In *[Get Back](https://en.wikipedia.org/wiki/The_Beatles:_Get_Back)* episode 2, 
 
 > **Paul:** And Linda remembered that thing you said the other night, about when you went up in the helicopter with him. You just thought he might slip you The Answer.
 >
+> **John:** I thought he might fly home.
+>
 > **Paul:** Sort of, *Oh, tell me, O Master.*
 >
 > **Paul:** *Hey, hey, John. By the way, John...*
